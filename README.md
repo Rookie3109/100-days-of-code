@@ -1,4 +1,4 @@
-# 100-days-of-code [Started on 1st October 2020]
+# 100-days-of-code 
 A repository to log 100 days of my coding progress.
 
 ### Aims: 
