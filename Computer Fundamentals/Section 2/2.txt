@@ -1,0 +1,20 @@
+26. A compiler means a program that translates source program into object program
+
+27. A pen shaped device which can sense light and is used at spots on a video screen - Light pen
+
+28. A notation used to express clearly an algorithm is known as - Algorithmic language
+
+29. Compression of digital data for efficient storage - Packing
+
+30. An operation system intended for use on microprocessor based systems that support a single user is - CP/M
+
+31. Programming language based on Algol 60 - SIMULA
+
+32. Computer memory consists of - RAM, ROM, PROM
+
+33. Path by which communication is achieved between a central processor and other devices is called - Bus
+
+34. Stand alone system which produces one page of printed output at a time is - Page printer
+
+35. Memory that does not change it's contents without external causes - Static memory
+
